@@ -1,2 +1,2 @@
-# mav.pi.github.io
+# mav-pi.github.io
 Pi network txt
