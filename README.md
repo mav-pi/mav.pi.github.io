@@ -1,2 +1,2 @@
-# mav.pi.github.io
+# instaboost.github.io
 Pi network txt
